@@ -1,0 +1,28 @@
+# Data (DUA-protected)
+mutation_profile/data/
+data/
+
+# Results (generated)
+mutation_profile/results/
+results/
+output/
+
+# Environment
+.env
+.secrets.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
